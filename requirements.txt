@@ -1,0 +1,6 @@
+# This is a requirements file, it makes managing python environements much easier. With one command you can install all
+# the python packages used in a project.
+
+# pip install -r requirements.txt
+
+pygame
